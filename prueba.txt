@@ -3,4 +3,4 @@ prueba2
 prueba3
 Nueva linea
 Nueva linea cod 2
-<h3>...</h3>
+<h2>...</h2>
